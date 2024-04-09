@@ -50,7 +50,7 @@ int main() {
  fact(n); 
  return 0; 
 } 
-
+/*
 I/O: 
 Enter the dimensions of the first matrix (row col): 2 2 
 Enter the elements of the matrix row wise: 
@@ -65,3 +65,4 @@ Result of matrix multiplication:
 28 24 80 
 Enter the number : 5 
 The factorial of 5 is 120
++/
