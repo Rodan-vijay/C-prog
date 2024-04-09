@@ -9,8 +9,6 @@ void add(int *p,int n)
     printf("sum is : %d",sum);
 }
 int main() {
-    // Write C code here
-    printf("Try programiz.pro");
     int n;
     printf("\nEnter the length : ");
     scanf("%d",&n);
